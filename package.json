@@ -1,0 +1,23 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "An app to generate a random number for teammates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanWatson/randomizer.git"
+  },
+  "keywords": [
+    "react",
+    "express"
+  ],
+  "author": "Dylan Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanWatson/randomizer/issues"
+  },
+  "homepage": "https://github.com/DylanWatson/randomizer#readme"
+}
